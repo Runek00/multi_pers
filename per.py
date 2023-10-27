@@ -1,6 +1,6 @@
 """
 Program finds the lowest number in given range
-with largest miltiplicative persistance
+with highest multiplicative persistance
 for example:
 	35[3*5]->15[1*5]->5:2
 	679[7*7*9]->378[3*7*8]->168[1*6*8]->48[4*8]->32[3*2]->6:5
